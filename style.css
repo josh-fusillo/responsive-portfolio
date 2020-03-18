@@ -1,7 +1,7 @@
 #nav {
     background-color: white;
     border-style: solid;
-    border-color: darkblue;
+    border-color: #2f53ad;
     border-radius: 1px;
 }
 
@@ -28,7 +28,7 @@
 	}
 	
 #nav li a:hover {
-		color: darkblue;
+		color: #2f53ad;
     }
     
 .body {
@@ -36,7 +36,7 @@
 }
 
 .h1 {
-    background-color: darkblue;
+    background-color: #2f53ad;
     padding: inherit;
     color: white;
     margin-left: 25px;
@@ -45,12 +45,22 @@
 
 .border-underline {
     border-style: solid;
-    border-color: darkblue;
+    border-color: #2f53ad;
     border-radius: 5px;
 }
 
 .card-body {
     border-style: solid;
-    border-color: darkblue;
+    border-color:#2f53ad;
     border-radius: 5px;
+}
+
+.card {
+    margin-left: 25px;
+}
+
+.profile-image {
+    height: 180px;
+    padding: 10px;
+    
 }
